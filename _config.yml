@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: hello@sarahgill.co.uk
 description: A blog about Japan.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: sarahgillatron
 github_username: sarahgillatron
 theme: minima
