@@ -34,6 +34,19 @@ h3 {
   font-weight:700;
 }
 
+nav a {
+  color: black;
+  text-decoration: none;
+}
+
+nav a.selected {
+  border-bottom: 1px solid red;
+}
+
+img {
+  max-width:780px;
+}
+
 
 header {
   display:flex;
